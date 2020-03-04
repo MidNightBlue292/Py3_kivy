@@ -4,6 +4,7 @@ from kivy.uix.button import Button
 
 class Test(App):
     def build(self):
-        return Button()
+        return Button(text='Press button...')
+
 
 Test().run()
