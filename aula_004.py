@@ -6,9 +6,10 @@ class incrementador(BoxLayout):
     pass
 
 
-class Test(App):
+class Test1(App):
     def build(self):
         return incrementador()
 
 
-Test().run()
+Test1().run()
+
