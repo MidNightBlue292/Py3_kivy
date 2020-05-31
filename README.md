@@ -1,4 +1,4 @@
-# Py3_kivy
+# Python 3 - Kivy
 Aprendendo a programar Python3 - kivy
 
 001 Criando uma interface gráfica
